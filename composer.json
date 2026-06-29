@@ -1,5 +1,5 @@
 {
-    "name": "tobylams/rpc-interfaces-public",
+    "name": "tobylam/rpc-interfaces-public",
     "description": "Hyperf RPC 共享接口定义",
     "type": "library",
     "license": "MIT",
