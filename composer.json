@@ -1,0 +1,14 @@
+{
+    "name": "tobylams/rpc-interfaces-public",
+    "description": "Hyperf RPC 共享接口定义",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\Rpc\\": "src/App/Rpc/"
+        }
+    },
+    "require": {
+        "php": ">=7.2"
+    }
+}
